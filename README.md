@@ -1,5 +1,5 @@
 # Portfolio-Masters
-# Sris Kumar Sridhar – Mechanical/Automotive Engineering Portfolio
+# Sris kumar sridhar – Mechanical/Automotive Engineering Portfolio
 
 Welcome to my portfolio! I'm a Mechanical Engineering graduate from CEG (Anna University), currently working at IIT Madras Research Park on the HASTIC mobility project.
 
