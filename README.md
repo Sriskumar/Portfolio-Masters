@@ -7,7 +7,7 @@ This repository highlights selected projects and simulations I've worked on in v
 
 ## 🔧 Featured Projects
 
-- **SAE BAJA Chassis Development** – Design, Analysis, Fabrication and Achievements
+- **SAE BAJA Chassis Development** – Design, Analysis, Fabrication 
 - **Crash Simulation using LS-DYNA** – Frontal impact and Load Path analysis
 - **Vehicle Integration & Dynamics** – IIT-Mobility startup (Motorz) under HASTIC
 
